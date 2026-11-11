@@ -6,7 +6,7 @@ starts with that letter.
 
 Usage:
     python src/select_city.py                       # interactive
-    python src/select_city.py TEAM_MEMBER_1_ID TEAM_MEMBER_2_ID   # IDs as arguments
+    python src/select_city.py 123456789 987654321   # IDs as arguments
 """
 from __future__ import annotations
 
